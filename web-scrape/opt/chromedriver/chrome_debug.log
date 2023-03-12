@@ -1,0 +1,13 @@
+[0312/213228.601629:WARNING:resource_bundle.cc(368)] locale_file_path.empty() for locale 
+[0312/213228.609389:WARNING:resource_bundle.cc(368)] locale_file_path.empty() for locale 
+[0312/213228.613616:ERROR:gpu_process_transport_factory.cc(1019)] Lost UI shared context.
+[0312/213228.633749:WARNING:histograms.cc(40)] Started multiple compositor clients (Browser, Renderer) in one process. Some metrics will be disabled.
+[0312/213228.837582:ERROR:gl_implementation.cc(292)] Failed to load /home/ec2-user/web-scrape/opt/chromedriver/libosmesa.so: /home/ec2-user/web-scrape/opt/chromedriver/libosmesa.so: cannot open shared object file: No such file or directory
+[0312/213229.718334:INFO:CONSOLE(0)] "Error while parsing the 'sandbox' Content Security Policy directive: 'allow-downloads' is an invalid sandbox flag.", source: https://finance.yahoo.com/quote/ACN?guccounter=1 (0)
+[0312/213229.723424:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://finance.yahoo.com/quote/ACN?guccounter=1 (1)
+[0312/213229.837164:INFO:CONSOLE(1)] "[FinSearchJS] Search initialized", source: https://s.yimg.com/uc/finance/srchjs/1.0.424/js/finSearch.min.js (1)
+[0312/213230.200554:INFO:CONSOLE(3)] "DARLA notice: 450", source: https://s.yimg.com/rq/darla/4-10-1/js/g-r-min.js (3)
+[0312/213230.355276:INFO:CONSOLE(21)] "darla csc writer, potential invalid html content", source: https://s.yimg.com/rq/darla/4-10-1/html/r-csc.html (21)
+[0312/213230.556029:INFO:CONSOLE(2)] "Uncaught SyntaxError: Unexpected token .", source: https://s.yimg.com/uc/finance/dd-site/js/main.57adb260d567a8003f34.min.js (2)
+[0312/213230.743823:INFO:CONSOLE(0)] "Error while parsing the 'sandbox' Content Security Policy directive: 'allow-downloads' is an invalid sandbox flag.", source: https://finance.yahoo.com/quote/ACN?guccounter=1 (0)
+[0312/213230.847620:INFO:CONSOLE(0)] "Error while parsing the 'sandbox' Content Security Policy directive: 'allow-downloads' is an invalid sandbox flag.", source: https://finance.yahoo.com/quote/ACN?guccounter=1 (0)
